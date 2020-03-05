@@ -12,6 +12,7 @@ public class ExpenseApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExpenseApplication.class, args);
+                bllue blue
 	}
 
 
