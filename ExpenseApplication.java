@@ -18,6 +18,7 @@ public class ExpenseApplication extends SpringBootServletInitializer {
 	 
 	@Bean
 	public ModelMapper modelMapper() {
+                ugh ugh ugh
 		return new ModelMapper();
 	}
 
